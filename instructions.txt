@@ -1,0 +1,13 @@
+List of commands (case sensitive):
+north/south/east/west: travels to the specified direction
+talk: talks with the character present in the room
+fight: fights enemies. It won't have any effect against friends
+hug: tries to hug the character in the room. Results in Game Over against enemies
+bribe: convinces the enemy not to fight provided you have the right item
+search: searches the room for any possible items. Doesn't work if there are any enemies present
+exit: exits the game
+go outside: finishes the game provided you have the key and are in the right room
+inventory: provides a list of all your available items and their quantities
+[item name]: provides a description of the desired item
+
+Note that while an enemy is present, it isn't possible to search or leave the room.
